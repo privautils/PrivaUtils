@@ -45,6 +45,13 @@ Access the live tools directly at [privautils.com](https://privautils.com):
 * [Secure Password Generator](https://privautils.com/security/password-generator): Generate high-entropy passwords and passphrases using browser cryptographic random number generation (CSPRNG).
 * [UUID Generator](https://privautils.com/security/uuid-generator): Generate batch RFC 4122 v4 UUIDs, time-ordered UUID v7s, and ULIDs.
 
+### Tool Comparisons & Privacy Alternatives
+
+* [10015.io Alternative](https://privautils.com/compare/10015-alternative): Complete zero-tracking developer toolbox alternative with local IndexedDB vault.
+* [CyberChef Alternative](https://privautils.com/compare/cyberchef-alternative): Modern, mobile-responsive developer utility suite with WebCrypto hardware acceleration.
+* [Smallpdf Alternative](https://privautils.com/compare/smallpdf-alternative): Free client-side PDF manipulation with no daily quotas, paywalls, or cloud uploads.
+* [iLovePDF Alternative](https://privautils.com/compare/ilovepdf-alternative): Private zero-upload PDF suite with visual storyboard page assembly and total data privacy.
+
 ---
 
 ## Core Architecture
