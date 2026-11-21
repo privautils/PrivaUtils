@@ -3,7 +3,7 @@
 > Free, private, client-side developer utilities and document processing tools executing 100% in local browser memory. Zero cloud uploads, zero wait queues, zero telemetry.
 
 **Website**: [https://privautils.com](https://privautils.com)  
-**Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS, Web Workers, WebAssembly  
+**Stack**: Next.js 16, React 19, TypeScript 5, Tailwind CSS, Web Workers, WebAssembly, Cloudflare Workers  
 
 ---
 
